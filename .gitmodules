@@ -1,0 +1,6 @@
+[submodule "libmessage"]
+	path = libmessage
+	url = https://github.com/TeaEntityLab/teaMessageAbstract.git
+[submodule "libtool"]
+	path = libtool
+	url = https://github.com/TeaEntityLab/teaTool.git
